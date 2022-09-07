@@ -1,0 +1,25 @@
+.heading {
+  margin: 20px;
+}
+.bikeWrapper {
+  display: flex;
+}
+
+.backPart {
+  margin-right: 20px;
+  width: 240px;
+  height: 415px;
+  border: 2px solid lightsalmon;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.dates {
+  overflow-y: auto;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}

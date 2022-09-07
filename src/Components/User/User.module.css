@@ -1,0 +1,27 @@
+.wrapper {
+  margin-top: 20px;
+  position: relative;
+  width: 240px;
+  margin-right: 20px;
+}
+.avatarWrapp {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.delete {
+  cursor: pointer;
+  color: red;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.edit {
+  cursor: pointer;
+  color: turquoise;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+}

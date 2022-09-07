@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+label {
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+input {
+  height: 40px;
+  border-radius: 10px;
+  border: 0px;
+  padding: 0px 16px;
+}
+.wrapper button {
+  margin-top: 20px;
+  height: 40px;
+  border-radius: 10px;
+  border: 0px;
+  cursor: pointer;
+}

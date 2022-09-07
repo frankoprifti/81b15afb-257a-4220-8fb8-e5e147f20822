@@ -1,0 +1,15 @@
+.wrapper {
+  height: 60px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  display: flex;
+  align-items: center;
+  padding: 0px 20px;
+  justify-content: space-between;
+}
+.logo b {
+  cursor: pointer;
+}
+.options b {
+  cursor: pointer;
+  margin-left: 24px;
+}
